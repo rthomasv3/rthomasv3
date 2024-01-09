@@ -24,16 +24,19 @@ menu:
     - name: Blog
       pageRef: /blog
       weight: 2
-    - name: Theme
+    - name: CV
+      pageRef: /cv
       weight: 3
+    - name: Theme
+      weight: 4
       params:
         type: theme
     - name: Search
-      weight: 4
+      weight: 5
       params:
         type: search
     - name: GitHub
-      weight: 5
+      weight: 6
       url: "https://github.com/rthomasv3"
       params:
         icon: github

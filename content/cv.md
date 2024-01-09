@@ -11,9 +11,9 @@ type: about
   <p class="cv-date">2023</p>
 
   #### Staff Engineer
-  > Go, AWS, Kubernetes, Redis, Python, Django, PostgreSQL, Docker
+  > Go, AWS, Kubernetes, Redis, Python, Django, PostgreSQL, Docker, Selenium
 
-  Built and maintained scalable system to search data brokers for customer personal information; deployed scalable solution using Docker containers in AWS to remove customer data from websites; maintained Django frontend.
+  Built and maintained scalable system to search data brokers for customer personal information; deployed scalable solution using Docker containers in AWS to remove customer data from websites; maintained Django frontend; implemented strategies to avoid fingerprinting and bypass site CAPTCHAs.
   
 
   ### Textel

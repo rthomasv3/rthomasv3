@@ -1,0 +1,34 @@
+/*:root {
+    --primary-hue: 285deg;
+    --primary-saturation: 30%;
+}
+*/
+
+body {
+  font-family: Hack,consolas,Menlo-Regular,Menlo,Monaco,ubuntu mono,monospace,monospace;
+}
+
+.pagination {
+    display: flex;
+    list-style: none;
+    margin: 1.5em 0;
+    padding: 0;
+    justify-content: center;
+}
+
+.page-link {
+    position: relative;
+    display: block;
+    padding: .75rem 1rem;
+    margin-left: -1px;
+    line-height: 1.25;
+    border: 1px solid #bbbbbb;
+}
+
+.page-item.active .page-link {
+    color: hsl(var(--primary-hue) var(--primary-saturation) 45% / var(--tw-text-opacity));
+}
+
+.page-item.disabled .page-link {
+    color: rgb(156 163 175 / var(--tw-text-opacity));
+}

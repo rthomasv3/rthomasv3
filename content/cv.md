@@ -65,16 +65,6 @@ type: about
 
 
 
-  ### Indie Softworks
-  <p class="cv-date">2013 - 2016</p>
-
-  #### Founder and Developer
-  > PHP, SQL, HTML, CSS, JavaScript, C#
-
-  Designed and developed official website using CSS, HTML, JavaScript, and PHP; created user-based software review system; developed stand-alone applications in C# used by tens of thousands of people; published educational articles; created databases for user information and site content; developed PHP web crawler for site indexing and searching; provided user support for all published applications.
-
-
-
   ### Rice University
   <p class="cv-date">2012</p>
 
@@ -96,6 +86,8 @@ type: about
 > Hugo, CSS, HTML, Markdown, GitHub Actions
 
 Updated personal website to be statically generated using Hugo; maintain blog posts, tutorials, and CV written in Markdown.
+
+https://rthomasv3.xyz/
 
 <br/>
 
@@ -126,6 +118,18 @@ Built homelab using old enterprise servers; designed home network with DMZ subne
 Founded limited liability company; designed, developed, and published table-top gaming software on Steam; provide customer support.
 
 https://store.steampowered.com/app/1087080/Critical_Compendium/
+
+<br/>
+
+
+### Indie Softworks
+<p class="cv-date">2012 - 2016</p>
+
+> PHP, SQL, HTML, CSS, JavaScript, C#, WinForms
+
+Designed and developed official website using CSS, HTML, JavaScript, and PHP; created user-based software review system; developed stand-alone applications in C# used by tens of thousands of people; published educational articles; created databases for user information and site content; developed PHP web crawler for site indexing and searching; provided user support for all published applications.
+
+https://web.archive.org/web/20160323023305/http://indiesoftworks.org/software
 
 <br/>
 

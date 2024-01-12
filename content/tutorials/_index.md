@@ -13,6 +13,7 @@ type: docs
 Guide and tutorials on everything tech, coding, and self-hosting.
 
 {{< cards rows=2 >}}
+    {{< card link="self-host" title="Self-host" >}}
     {{< card link="csharp" title="C#" >}}
     {{< card link="docker" title="Docker" >}}
     {{< card link="proxmox" title="Proxmox" >}}

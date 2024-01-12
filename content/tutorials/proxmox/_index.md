@@ -6,4 +6,4 @@ sidebar:
   open: false
 ---
 
-Find out how to setup and use Proxmox to self host all your favorite services.
+Find out how to set up and use Proxmox to self-host all your favorite services.

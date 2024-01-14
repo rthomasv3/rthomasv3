@@ -8,6 +8,8 @@ authors:
 tags:
   - ntfy
   - self-host
+  - notifications
+  - notify
 excludeSearch: false
 type: docs
 ---

@@ -23,7 +23,7 @@ type: about
 
   > C#, Azure, Service Fabric, DevOps, MSSQL, REST, Vue.js, SignalR, Elasticsearch
 
-  Designed software and system architecture for scalable, cloud-based SMS and MMS communications platform; hired and trained a team of software engineers in building maintainable products from the ground up; designed table schemas for MSSQL Server; created a GDPRcompliant international texting framework; created automated pipelines and releases to manage testing and deployments; implemented continuous integration and delivery strategies.
+  Designed software and system architecture for scalable, cloud-based SMS and MMS communications platform; hired and trained a team of software engineers in building maintainable products from the ground up; designed table schemas for MSSQL Server; created a GDPR-compliant international texting framework; created automated pipelines and releases to manage testing and deployments; implemented continuous integration and delivery strategies.
 
   #### Software Engineer - Team Lead
 

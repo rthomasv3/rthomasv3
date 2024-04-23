@@ -80,6 +80,16 @@ type: about
 
 ## Projects
 
+### Galdr
+<p class="cv-date">2024 - Present</p>
+
+> C#, webview
+
+[Galdr](https://github.com/rthomasv3/Galdr) is a framework for building multi-platform desktop applications using C#. It's powered by webview and compatible with any frontend web framework of your choice.
+
+<br />
+
+
 ### Personal Website
 <p class="cv-date">2024 - Present</p>
 
@@ -92,12 +102,14 @@ https://rthomasv3.xyz/
 <br/>
 
 
-### Personal Website
-<p class="cv-date">2021 - 2023</p>
+### Game Mods
+<p class="cv-date">2023 - Present</p>
 
-> C#, .NET 6, Postgres, EF, Vue.js, Bulma.io, Debian, Postfix
+> Lua, RE Engine
 
-Created personal blog powered by Vue.js and C# REST API; runs on a Debian VM; includes an internal system for managing posts in a PostgreSQL database; email with Postfix; secured with OAuth 2.0.
+A collection of various [mods](https://github.com/rthomasv3/Mods) I've worked on for RE Engine games, including the Resident Evil remakes and Dragon's Dogma 2.
+
+https://next.nexusmods.com/profile/rthomasv3/mods
 
 <br/>
 
@@ -108,6 +120,18 @@ Created personal blog powered by Vue.js and C# REST API; runs on a Debian VM; in
 >  Proxmox, PfSense, Debian, ZFS, Nginx, Docker, Bash, Rsync, Cloudflare
 
 Built homelab using old enterprise servers; designed home network with DMZ subnet, firewall, and VPN; created VMs in Proxmox for self-hosted services; setup automated on-site and off-site backups; created management and deployment tools using Bash, Cron, and Docker Compose; setup monitoring dashboard with mobile push notifications.
+
+<br/>
+
+
+### Personal Website (Old)
+<p class="cv-date">2021 - 2023</p>
+
+> C#, .NET 6, Postgres, EF, Vue.js, Bulma.io, Debian, Postfix
+
+Created personal blog powered by Vue.js and C# REST API; runs on a Debian VM; includes an internal system for managing posts in a PostgreSQL database; email with Postfix; secured with OAuth 2.0.
+
+<br/>
 
 
 ### Crit Compendium
